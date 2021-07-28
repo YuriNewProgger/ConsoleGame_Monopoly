@@ -1,0 +1,6 @@
+C:\Users\Dampel\Desktop\MyProject\Monopoly\Monopoly\bin\Debug\Monopoly.exe.config
+C:\Users\Dampel\Desktop\MyProject\Monopoly\Monopoly\bin\Debug\Monopoly.exe
+C:\Users\Dampel\Desktop\MyProject\Monopoly\Monopoly\bin\Debug\Monopoly.pdb
+C:\Users\Dampel\Desktop\MyProject\Monopoly\Monopoly\obj\Debug\Monopoly.csproj.CoreCompileInputs.cache
+C:\Users\Dampel\Desktop\MyProject\Monopoly\Monopoly\obj\Debug\Monopoly.exe
+C:\Users\Dampel\Desktop\MyProject\Monopoly\Monopoly\obj\Debug\Monopoly.pdb
